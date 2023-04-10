@@ -49,11 +49,11 @@ def end_json_dict_in_file(file_path: str):
 
 
 def main():
-    gold_file = '../models/gold_50.json'
+    gold_file = '../models/gold_emma.json'
     gold = {}
 
     # load training data
-    with open('../models/training_50.json', 'r') as f:
+    with open('../models/training_new_emma.json', 'r') as f:
         training = json.load(f)
 
     for instance_id, window in training:
