@@ -1,0 +1,53 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "patternProperties": {
+        "^[a-z]+\\d+-\\d+$": {
+            "type": "object",
+            "properties": {
+                "bill_id": {
+                    "type": "string",
+                    "pattern": "^[a-z]+\\d+$"
+                },
+                "congress": {
+                    "type": "integer"
+                },
+                "bill_number": {
+                    "type": "string"
+                },
+                "short_title": {
+                    "type": "string"
+                },
+                "introduced": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "last_action": {
+                    "type": "string"
+                },
+                "last_action_date": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "house_vote": {
+                    "type": "object"
+                },
+                "senate_vote": {
+                    "type": "object"
+                }
+            },
+            "required": [
+                "bill_id",
+                "congress",
+                "bill_number",
+                "short_title",
+                "introduced",
+                "last_action",
+                "last_action_date",
+                "house_vote",
+                "senate_vote"
+            ]
+        }
+    },
+    "additionalProperties": false
+}
