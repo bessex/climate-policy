@@ -30,10 +30,52 @@
                     "format": "date"
                 },
                 "house_vote": {
-                    "type": "object"
+                    "type": "object",
+                    "properties": {
+                        "date": {
+                            "type": "string",
+                            "format": "date"
+                        },
+                        "passed": {
+                            "type": "boolean"
+                        },
+                        "total_proportion": {
+                            "type": "number"
+                        },
+                        "democrats": {
+                            "type": "number"
+                        },
+                        "republicans": {
+                            "type": "number"
+                        },
+                        "independents": {
+                            "type": ["number", "null"]
+                        }
+                    }
                 },
                 "senate_vote": {
-                    "type": "object"
+                    "type": "object",
+                    "properties": {
+                        "date": {
+                            "type": "string",
+                            "format": "date"
+                        },
+                        "passed": {
+                            "type": "boolean"
+                        },
+                        "total_proportion": {
+                            "type": "number"
+                        },
+                        "democrats": {
+                            "type": "number"
+                        },
+                        "republicans": {
+                            "type": "number"
+                        },
+                        "independents": {
+                            "type": ["number", "null"]
+                        }
+                    }
                 }
             },
             "required": [

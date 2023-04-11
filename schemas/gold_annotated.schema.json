@@ -10,7 +10,7 @@
                 },
                 "polarity": {
                     "type": "string",
-                    "enum": ["positive", "negative"]
+                    "enum": ["positive", "negative", "neutral"]
                 }
             },
             "required": ["window", "polarity"]
