@@ -2,7 +2,7 @@ name: Convert Notebooks to LaTeX and Release Artifacts
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   convert:
