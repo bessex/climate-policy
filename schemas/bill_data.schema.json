@@ -76,6 +76,15 @@
                             "type": ["number", "null"]
                         }
                     }
+                },
+                "last_action_code": {
+                    "type": "string"
+                },
+                "last_action_timestamp": {
+                    "type": "integer"
+                },
+                "last_action_ordinal": {
+                    "type": "integer"
                 }
             },
             "required": [
@@ -87,7 +96,10 @@
                 "last_action",
                 "last_action_date",
                 "house_vote",
-                "senate_vote"
+                "senate_vote",
+                "last_action_code",
+                "last_action_timestamp",
+                "last_action_ordinal"
             ]
         }
     },
