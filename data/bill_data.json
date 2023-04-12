@@ -8,7 +8,10 @@
     "last_action": "Signed by President.",
     "last_action_date": "2023-01-05",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1672902000,
+    "last_action_ordinal": 17
   },
   "hr2348-117": {
     "bill_id": "hr2348",
@@ -19,7 +22,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 492.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr2021-117": {
     "bill_id": "hr2021",
@@ -30,7 +36,10 @@
     "last_action": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-687, Part I.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12200",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 5
   },
   "hr3524-117": {
     "bill_id": "hr3524",
@@ -41,7 +50,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 486.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr5522-117": {
     "bill_id": "hr5522",
@@ -52,7 +64,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 495.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hres641-117": {
     "bill_id": "hres641",
@@ -63,7 +78,10 @@
     "last_action": "Placed on the House Calendar, Calendar No. 171.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12420",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 7
   },
   "hr6032-117": {
     "bill_id": "hr6032",
@@ -74,7 +92,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 496.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr8115-117": {
     "bill_id": "hr8115",
@@ -85,7 +106,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 501.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr7776-117": {
     "bill_id": "hr7776",
@@ -110,7 +134,10 @@
       "democrats": 0.8936170212765957,
       "republicans": 0.8863636363636364,
       "independents": 0.6666666666666666
-    }
+    },
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1671778800,
+    "last_action_ordinal": 17
   },
   "s2708-117": {
     "bill_id": "s2708",
@@ -121,7 +148,10 @@
     "last_action": "Message on Senate action sent to the House.",
     "last_action_date": "2022-12-23",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H15000",
+    "last_action_timestamp": 1671814684,
+    "last_action_ordinal": 10
   },
   "s3046-117": {
     "bill_id": "s3046",
@@ -132,7 +162,10 @@
     "last_action": "Message on Senate action sent to the House.",
     "last_action_date": "2022-12-23",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H15000",
+    "last_action_timestamp": 1671814692,
+    "last_action_ordinal": 10
   },
   "s3957-117": {
     "bill_id": "s3957",
@@ -143,7 +176,10 @@
     "last_action": "Held at the desk.",
     "last_action_date": "2022-12-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H15000",
+    "last_action_timestamp": 1671563448,
+    "last_action_ordinal": 10
   },
   "hr2415-117": {
     "bill_id": "hr2415",
@@ -154,7 +190,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 464.",
     "last_action_date": "2022-12-15",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671087600,
+    "last_action_ordinal": 6
   },
   "hr1503-117": {
     "bill_id": "hr1503",
@@ -165,7 +204,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 452.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr1517-117": {
     "bill_id": "hr1517",
@@ -176,7 +218,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 455.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr1506-117": {
     "bill_id": "hr1506",
@@ -187,7 +232,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 454.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr1505-117": {
     "bill_id": "hr1505",
@@ -198,7 +246,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 453.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr2643-117": {
     "bill_id": "hr2643",
@@ -209,7 +260,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 456.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr2794-117": {
     "bill_id": "hr2794",
@@ -220,7 +274,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 457.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr3670-117": {
     "bill_id": "hr3670",
@@ -231,7 +288,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 460.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "hr3764-117": {
     "bill_id": "hr3764",
@@ -242,7 +302,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 511.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr7918-117": {
     "bill_id": "hr7918",
@@ -253,7 +316,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 500.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr7766-117": {
     "bill_id": "hr7766",
@@ -264,7 +330,10 @@
     "last_action": "Referred to the House Committee on Natural Resources.",
     "last_action_date": "2022-05-13",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1652421600,
+    "last_action_ordinal": 3
   },
   "hr7484-117": {
     "bill_id": "hr7484",
@@ -275,7 +344,10 @@
     "last_action": "Referred to the Subcommittee on Environment and Climate Change.",
     "last_action_date": "2022-04-08",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1649397600,
+    "last_action_ordinal": 2
   },
   "hr6168-117": {
     "bill_id": "hr6168",
@@ -286,7 +358,10 @@
     "last_action": "Referred to the Subcommittee on Energy and Mineral Resources.",
     "last_action_date": "2021-12-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1639724400,
+    "last_action_ordinal": 2
   },
   "hr5957-117": {
     "bill_id": "hr5957",
@@ -297,7 +372,10 @@
     "last_action": "Referred to the Subcommittee on Water, Oceans, and Wildlife.",
     "last_action_date": "2021-11-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1638255600,
+    "last_action_ordinal": 2
   },
   "hr2826-117": {
     "bill_id": "hr2826",
@@ -308,7 +386,10 @@
     "last_action": "Referred to the Subcommittee on Immigration and Citizenship.",
     "last_action_date": "2021-10-19",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1634623200,
+    "last_action_ordinal": 2
   },
   "hr4781-117": {
     "bill_id": "hr4781",
@@ -319,7 +400,10 @@
     "last_action": "Referred to the Subcommittee on Energy and Mineral Resources.",
     "last_action_date": "2021-08-11",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1628661600,
+    "last_action_ordinal": 2
   },
   "hr4420-117": {
     "bill_id": "hr4420",
@@ -330,7 +414,10 @@
     "last_action": "Sponsor introductory remarks on measure. (CR H4148)",
     "last_action_date": "2021-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "B00100",
+    "last_action_timestamp": 1627452000,
+    "last_action_ordinal": 0
   },
   "hr3112-117": {
     "bill_id": "hr3112",
@@ -341,7 +428,10 @@
     "last_action": "Referred to the Subcommittee on Water, Oceans, and Wildlife.",
     "last_action_date": "2021-06-19",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1624082400,
+    "last_action_ordinal": 2
   },
   "s1782-117": {
     "bill_id": "s1782",
@@ -352,7 +442,10 @@
     "last_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
     "last_action_date": "2021-05-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1621490400,
+    "last_action_ordinal": 1
   },
   "hr3311-117": {
     "bill_id": "hr3311",
@@ -363,7 +456,10 @@
     "last_action": "Referred to the Subcommittee on Energy.",
     "last_action_date": "2021-05-19",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1621404000,
+    "last_action_ordinal": 2
   },
   "s914-117": {
     "bill_id": "s914",
@@ -381,7 +477,10 @@
       "democrats": 1.0,
       "republicans": 0.9545454545454546,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "14900",
+    "last_action_timestamp": 1620626400,
+    "last_action_ordinal": 9
   },
   "s1405-117": {
     "bill_id": "s1405",
@@ -392,7 +491,10 @@
     "last_action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
     "last_action_date": "2021-04-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1619589600,
+    "last_action_ordinal": 1
   },
   "hr931-117": {
     "bill_id": "hr931",
@@ -403,7 +505,10 @@
     "last_action": "Referred to the Subcommittee on Antitrust, Commercial, and Administrative Law.",
     "last_action_date": "2021-04-23",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1619157600,
+    "last_action_ordinal": 2
   },
   "s1335-117": {
     "bill_id": "s1335",
@@ -414,7 +519,10 @@
     "last_action": "Read twice and referred to the Committee on Foreign Relations.",
     "last_action_date": "2021-04-22",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1619071200,
+    "last_action_ordinal": 1
   },
   "s277-117": {
     "bill_id": "s277",
@@ -425,7 +533,10 @@
     "last_action": "Read twice and referred to the Committee on Environment and Public Works.",
     "last_action_date": "2021-02-08",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1612767600,
+    "last_action_ordinal": 1
   },
   "hr160-117": {
     "bill_id": "hr160",
@@ -436,7 +547,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 450.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "s3997-117": {
     "bill_id": "s3997",
@@ -447,7 +561,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 553.",
     "last_action_date": "2022-11-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1668668400,
+    "last_action_ordinal": 8
   },
   "hr2026-117": {
     "bill_id": "hr2026",
@@ -458,7 +575,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 408.",
     "last_action_date": "2022-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1668582000,
+    "last_action_ordinal": 6
   },
   "hr3540-117": {
     "bill_id": "hr3540",
@@ -469,7 +589,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 414.",
     "last_action_date": "2022-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1668582000,
+    "last_action_ordinal": 6
   },
   "hr4677-117": {
     "bill_id": "hr4677",
@@ -480,7 +603,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 417.",
     "last_action_date": "2022-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1668582000,
+    "last_action_ordinal": 6
   },
   "s3743-117": {
     "bill_id": "s3743",
@@ -491,7 +617,10 @@
     "last_action": "By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 117-137.",
     "last_action_date": "2022-08-02",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14900",
+    "last_action_timestamp": 1659420000,
+    "last_action_ordinal": 9
   },
   "hr1512-117": {
     "bill_id": "hr1512",
@@ -502,7 +631,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-06-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1656568800,
+    "last_action_ordinal": 14
   },
   "hr2238-117": {
     "bill_id": "hr2238",
@@ -513,7 +645,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-06-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1656568800,
+    "last_action_ordinal": 14
   },
   "hr8059-117": {
     "bill_id": "hr8059",
@@ -524,7 +659,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-06-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1656568800,
+    "last_action_ordinal": 14
   },
   "s3956-117": {
     "bill_id": "s3956",
@@ -535,7 +673,10 @@
     "last_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "last_action_date": "2022-03-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1648620000,
+    "last_action_ordinal": 1
   },
   "hr7124-117": {
     "bill_id": "hr7124",
@@ -546,7 +687,10 @@
     "last_action": "Referred to the House Committee on Ways and Means.",
     "last_action_date": "2022-03-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1647496800,
+    "last_action_ordinal": 3
   },
   "hr2471-117": {
     "bill_id": "hr2471",
@@ -571,7 +715,10 @@
       "democrats": 1.0,
       "republicans": 0.3673469387755102,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1647324000,
+    "last_action_ordinal": 17
   },
   "s381-117": {
     "bill_id": "s381",
@@ -582,7 +729,10 @@
     "last_action": "By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-76.",
     "last_action_date": "2022-02-15",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14900",
+    "last_action_timestamp": 1644908400,
+    "last_action_ordinal": 9
   },
   "s1894-117": {
     "bill_id": "s1894",
@@ -593,7 +743,10 @@
     "last_action": "By Senator Cantwell from Committee on Commerce, Science, and Transportation filed written report. Report No. 117-78.",
     "last_action_date": "2022-02-15",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14900",
+    "last_action_timestamp": 1644908400,
+    "last_action_ordinal": 9
   },
   "hr1848-117": {
     "bill_id": "hr1848",
@@ -604,7 +757,10 @@
     "last_action": "Referred to the Subcommittee for Indigenous Peoples of the United States.",
     "last_action_date": "2022-01-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1642662000,
+    "last_action_ordinal": 2
   },
   "s46-117": {
     "bill_id": "s46",
@@ -615,7 +771,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.",
     "last_action_date": "2021-12-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1639724400,
+    "last_action_ordinal": 8
   },
   "s1201-117": {
     "bill_id": "s1201",
@@ -626,7 +785,10 @@
     "last_action": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported favorably.",
     "last_action_date": "2021-12-15",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1618812000,
+    "last_action_ordinal": 1
   },
   "hr5781-117": {
     "bill_id": "hr5781",
@@ -637,7 +799,10 @@
     "last_action": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
     "last_action_date": "2021-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H19000",
+    "last_action_timestamp": 1637046000,
+    "last_action_ordinal": 12
   },
   "hr1492-117": {
     "bill_id": "hr1492",
@@ -648,7 +813,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 491.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr2780-117": {
     "bill_id": "hr2780",
@@ -659,7 +827,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 503.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "hr604-117": {
     "bill_id": "hr604",
@@ -670,7 +841,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 467.",
     "last_action_date": "2022-12-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671174000,
+    "last_action_ordinal": 6
   },
   "s2510-117": {
     "bill_id": "s2510",
@@ -681,7 +855,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 624.",
     "last_action_date": "2022-12-12",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1670828400,
+    "last_action_ordinal": 8
   },
   "hr7636-117": {
     "bill_id": "hr7636",
@@ -692,7 +869,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 441.",
     "last_action_date": "2022-12-08",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1670482800,
+    "last_action_ordinal": 6
   },
   "hr5296-117": {
     "bill_id": "hr5296",
@@ -703,7 +883,10 @@
     "last_action": "ASSUMING FIRST SPONSORSHIP - Ms. Bonamici asked unanimous consent that she may hereafter be considered to be the first sponsor of H.R. 5296, as bill originally introduced by Representative Crist of Florida, for the purposes of adding cosponsors and requesting re-printings pursuant to clause 7 of rule XII. Agreed to without objection.",
     "last_action_date": "2022-12-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H8D000",
+    "last_action_timestamp": 1669938967,
+    "last_action_ordinal": 0
   },
   "s4629-117": {
     "bill_id": "s4629",
@@ -714,7 +897,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 562.",
     "last_action_date": "2022-11-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1668668400,
+    "last_action_ordinal": 8
   },
   "hr3772-117": {
     "bill_id": "hr3772",
@@ -725,7 +911,10 @@
     "last_action": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.",
     "last_action_date": "2022-11-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1667282400,
+    "last_action_ordinal": 2
   },
   "s442-117": {
     "bill_id": "s442",
@@ -743,7 +932,10 @@
       "republicans": 0.625,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1665986400,
+    "last_action_ordinal": 17
   },
   "hr7900-117": {
     "bill_id": "hr7900",
@@ -761,7 +953,10 @@
       "republicans": 0.7061611374407583,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H38900",
+    "last_action_timestamp": 1657846876,
+    "last_action_ordinal": 16
   },
   "sres799-117": {
     "bill_id": "sres799",
@@ -772,7 +967,10 @@
     "last_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5112; text: CR S5057)",
     "last_action_date": "2022-09-27",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "17000",
+    "last_action_timestamp": 1664258400,
+    "last_action_ordinal": 11
   },
   "hr4606-117": {
     "bill_id": "hr4606",
@@ -783,7 +981,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 350.",
     "last_action_date": "2022-08-19",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1660888800,
+    "last_action_ordinal": 6
   },
   "hr5376-117": {
     "bill_id": "hr5376",
@@ -808,7 +1009,10 @@
       "democrats": 1.0,
       "republicans": 0.0,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1660629600,
+    "last_action_ordinal": 17
   },
   "s874-117": {
     "bill_id": "s874",
@@ -819,7 +1023,10 @@
     "last_action": "Committee on Banking, Housing, and Urban Affairs. Hearings held.",
     "last_action_date": "2022-08-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1616047200,
+    "last_action_ordinal": 1
   },
   "s1925-117": {
     "bill_id": "s1925",
@@ -830,7 +1037,10 @@
     "last_action": "Committee on Banking, Housing, and Urban Affairs. Hearings held.",
     "last_action_date": "2022-08-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1622095200,
+    "last_action_ordinal": 1
   },
   "s3543-117": {
     "bill_id": "s3543",
@@ -841,7 +1051,10 @@
     "last_action": "Committee on Energy and Natural Resources. Hearings held.",
     "last_action_date": "2022-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1643698800,
+    "last_action_ordinal": 1
   },
   "s4061-117": {
     "bill_id": "s4061",
@@ -852,7 +1065,10 @@
     "last_action": "Committee on Energy and Natural Resources. Hearings held.",
     "last_action_date": "2022-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1649311200,
+    "last_action_ordinal": 1
   },
   "hr8446-117": {
     "bill_id": "hr8446",
@@ -870,7 +1086,10 @@
       "republicans": 0.5432692307692307,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H38310",
+    "last_action_timestamp": 1664492743,
+    "last_action_ordinal": 15
   },
   "s1475-117": {
     "bill_id": "s1475",
@@ -881,7 +1100,10 @@
     "last_action": "Committee on Environment and Public Works. Hearings held.",
     "last_action_date": "2022-09-07",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1619676000,
+    "last_action_ordinal": 1
   },
   "s4649-117": {
     "bill_id": "s4649",
@@ -892,7 +1114,10 @@
     "last_action": "Read twice and referred to the Committee on Foreign Relations.",
     "last_action_date": "2022-07-27",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1658901600,
+    "last_action_ordinal": 1
   },
   "hr8239-117": {
     "bill_id": "hr8239",
@@ -903,7 +1128,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 300.",
     "last_action_date": "2022-06-27",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1656309600,
+    "last_action_ordinal": 6
   },
   "s1264-117": {
     "bill_id": "s1264",
@@ -914,7 +1142,10 @@
     "last_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
     "last_action_date": "2022-06-07",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1618984800,
+    "last_action_ordinal": 1
   },
   "s2568-117": {
     "bill_id": "s2568",
@@ -925,7 +1156,10 @@
     "last_action": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
     "last_action_date": "2022-06-07",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1627538400,
+    "last_action_ordinal": 1
   },
   "hr2518-117": {
     "bill_id": "hr2518",
@@ -936,7 +1170,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 258.",
     "last_action_date": "2022-06-03",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1654236000,
+    "last_action_ordinal": 6
   },
   "hr2606-117": {
     "bill_id": "hr2606",
@@ -947,7 +1184,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 259.",
     "last_action_date": "2022-06-03",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1654236000,
+    "last_action_ordinal": 6
   },
   "s953-117": {
     "bill_id": "s953",
@@ -958,7 +1198,10 @@
     "last_action": "Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.",
     "last_action_date": "2022-05-25",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1616565600,
+    "last_action_ordinal": 1
   },
   "hr6250-117": {
     "bill_id": "hr6250",
@@ -969,7 +1212,10 @@
     "last_action": "Referred to the Subcommittee on Livestock and Foreign Agriculture.",
     "last_action_date": "2022-01-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1641279600,
+    "last_action_ordinal": 2
   },
   "s3285-117": {
     "bill_id": "s3285",
@@ -980,7 +1226,10 @@
     "last_action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
     "last_action_date": "2021-11-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1638255600,
+    "last_action_ordinal": 1
   },
   "hr4832-117": {
     "bill_id": "hr4832",
@@ -991,7 +1240,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2021-11-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1636005600,
+    "last_action_ordinal": 14
   },
   "hr5589-117": {
     "bill_id": "hr5589",
@@ -1002,7 +1254,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 122.",
     "last_action_date": "2021-11-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1635746400,
+    "last_action_ordinal": 6
   },
   "hr5422-117": {
     "bill_id": "hr5422",
@@ -1013,7 +1268,10 @@
     "last_action": "Referred to the Subcommittee on Biotechnology, Horticulture, and Research.",
     "last_action_date": "2021-10-21",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1634796000,
+    "last_action_ordinal": 2
   },
   "hr5421-117": {
     "bill_id": "hr5421",
@@ -1024,7 +1282,10 @@
     "last_action": "Referred to the Subcommittee on Biotechnology, Horticulture, and Research.",
     "last_action_date": "2021-10-21",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1634796000,
+    "last_action_ordinal": 2
   },
   "hr1154-117": {
     "bill_id": "hr1154",
@@ -1042,7 +1303,10 @@
       "republicans": 0.8277511961722488,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1672902000,
+    "last_action_ordinal": 17
   },
   "hr3326-117": {
     "bill_id": "hr3326",
@@ -1053,7 +1317,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 459.",
     "last_action_date": "2022-12-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1671001200,
+    "last_action_ordinal": 6
   },
   "s1538-117": {
     "bill_id": "s1538",
@@ -1064,7 +1331,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.",
     "last_action_date": "2022-12-12",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1670828400,
+    "last_action_ordinal": 8
   },
   "sres779-117": {
     "bill_id": "sres779",
@@ -1075,7 +1345,10 @@
     "last_action": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4878; text: CR S4860)",
     "last_action_date": "2022-09-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "17000",
+    "last_action_timestamp": 1663653600,
+    "last_action_ordinal": 11
   },
   "s1345-117": {
     "bill_id": "s1345",
@@ -1086,7 +1359,10 @@
     "last_action": "Committee on Environment and Public Works. Hearings held.",
     "last_action_date": "2022-07-13",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1619071200,
+    "last_action_ordinal": 1
   },
   "s4136-117": {
     "bill_id": "s4136",
@@ -1097,7 +1373,10 @@
     "last_action": "By Senator Carper from Committee on Environment and Public Works filed written report. Report No. 117-124.",
     "last_action_date": "2022-06-22",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14900",
+    "last_action_timestamp": 1655877600,
+    "last_action_ordinal": 9
   },
   "hr4768-117": {
     "bill_id": "hr4768",
@@ -1108,7 +1387,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-06-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1655359200,
+    "last_action_ordinal": 14
   },
   "s2194-117": {
     "bill_id": "s2194",
@@ -1119,7 +1401,10 @@
     "last_action": "Committee on Environment and Public Works. Hearings held.",
     "last_action_date": "2022-06-15",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1624428000,
+    "last_action_ordinal": 1
   },
   "hr7329-117": {
     "bill_id": "hr7329",
@@ -1130,7 +1415,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-05-11",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1652248800,
+    "last_action_ordinal": 14
   },
   "hr4092-117": {
     "bill_id": "hr4092",
@@ -1141,7 +1429,10 @@
     "last_action": "Subcommittee Hearings Held.",
     "last_action_date": "2022-01-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H21000",
+    "last_action_timestamp": 1642662000,
+    "last_action_ordinal": 14
   },
   "s1995-117": {
     "bill_id": "s1995",
@@ -1152,7 +1443,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.",
     "last_action_date": "2021-12-17",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1639724400,
+    "last_action_ordinal": 8
   },
   "hr4309-117": {
     "bill_id": "hr4309",
@@ -1163,7 +1457,10 @@
     "last_action": "Executive Comment Requested from Def Nuc Agcy.",
     "last_action_date": "2021-10-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12000",
+    "last_action_timestamp": 1633068000,
+    "last_action_ordinal": 4
   },
   "s2633-117": {
     "bill_id": "s2633",
@@ -1174,7 +1471,10 @@
     "last_action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
     "last_action_date": "2021-08-05",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1628143200,
+    "last_action_ordinal": 1
   },
   "s2613-117": {
     "bill_id": "s2613",
@@ -1185,7 +1485,10 @@
     "last_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
     "last_action_date": "2021-08-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1628056800,
+    "last_action_ordinal": 1
   },
   "hr4235-117": {
     "bill_id": "hr4235",
@@ -1196,7 +1499,10 @@
     "last_action": "Referred to the Subcommittee on Water, Oceans, and Wildlife.",
     "last_action_date": "2021-07-24",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1627106400,
+    "last_action_ordinal": 2
   },
   "hr4690-117": {
     "bill_id": "hr4690",
@@ -1207,7 +1513,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 502.",
     "last_action_date": "2022-12-30",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1672383600,
+    "last_action_ordinal": 6
   },
   "s1466-117": {
     "bill_id": "s1466",
@@ -1225,7 +1534,10 @@
       "republicans": 0.7268292682926829,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1672124400,
+    "last_action_ordinal": 17
   },
   "hr4373-117": {
     "bill_id": "hr4373",
@@ -1250,7 +1562,10 @@
       "democrats": 0.9574468085106383,
       "republicans": 0.0,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "H1B000",
+    "last_action_timestamp": 1671824308,
+    "last_action_ordinal": 1
   },
   "sres472-117": {
     "bill_id": "sres472",
@@ -1261,7 +1576,10 @@
     "last_action": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text of amendment in the nature of a substitute: CR S9754)",
     "last_action_date": "2022-12-21",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "17000",
+    "last_action_timestamp": 1671606000,
+    "last_action_ordinal": 11
   },
   "hr1437-117": {
     "bill_id": "hr1437",
@@ -1286,7 +1604,10 @@
       "democrats": 1.0,
       "republicans": 0.5365853658536586,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1671174000,
+    "last_action_ordinal": 17
   },
   "hr2872-117": {
     "bill_id": "hr2872",
@@ -1297,7 +1618,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 412.",
     "last_action_date": "2022-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1668582000,
+    "last_action_ordinal": 6
   },
   "hr5345-117": {
     "bill_id": "hr5345",
@@ -1308,7 +1632,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 418.",
     "last_action_date": "2022-11-16",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1668582000,
+    "last_action_ordinal": 6
   },
   "hr3814-117": {
     "bill_id": "hr3814",
@@ -1319,7 +1646,10 @@
     "last_action": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.",
     "last_action_date": "2022-11-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1667282400,
+    "last_action_ordinal": 2
   },
   "s3428-117": {
     "bill_id": "s3428",
@@ -1330,7 +1660,10 @@
     "last_action": "Message on Senate action sent to the House.",
     "last_action_date": "2022-12-23",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H15000",
+    "last_action_timestamp": 1671814697,
+    "last_action_ordinal": 10
   },
   "s4064-117": {
     "bill_id": "s4064",
@@ -1341,7 +1674,10 @@
     "last_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 604.",
     "last_action_date": "2022-12-07",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14000",
+    "last_action_timestamp": 1670396400,
+    "last_action_ordinal": 8
   },
   "s3978-117": {
     "bill_id": "s3978",
@@ -1352,7 +1688,10 @@
     "last_action": "Committee on Energy and Natural Resources. Hearings held.",
     "last_action_date": "2022-12-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1648706400,
+    "last_action_ordinal": 1
   },
   "hres937-117": {
     "bill_id": "hres937",
@@ -1363,7 +1702,10 @@
     "last_action": "Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.",
     "last_action_date": "2022-11-01",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1667282400,
+    "last_action_ordinal": 2
   },
   "hres1266-117": {
     "bill_id": "hres1266",
@@ -1374,7 +1716,10 @@
     "last_action": "Placed on the House Calendar, Calendar No. 101.",
     "last_action_date": "2022-09-20",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12420",
+    "last_action_timestamp": 1663653600,
+    "last_action_ordinal": 7
   },
   "hr4819-117": {
     "bill_id": "hr4819",
@@ -1385,7 +1730,10 @@
     "last_action": "Placed on the Union Calendar, Calendar No. 362.",
     "last_action_date": "2022-09-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H12410",
+    "last_action_timestamp": 1663135200,
+    "last_action_ordinal": 6
   },
   "s3856-117": {
     "bill_id": "s3856",
@@ -1396,7 +1744,10 @@
     "last_action": "Committee on Energy and Natural Resources. Hearings held.",
     "last_action_date": "2022-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1647410400,
+    "last_action_ordinal": 1
   },
   "s4066-117": {
     "bill_id": "s4066",
@@ -1407,7 +1758,10 @@
     "last_action": "Committee on Energy and Natural Resources. Hearings held.",
     "last_action_date": "2022-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1649311200,
+    "last_action_ordinal": 1
   },
   "hr4720-117": {
     "bill_id": "hr4720",
@@ -1418,7 +1772,10 @@
     "last_action": "ASSUMING FIRST SPONSORSHIP - Mr. Schweikert asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 4720, a bill originally introduced by Representative Reed, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
     "last_action_date": "2022-07-28",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H8D000",
+    "last_action_timestamp": 1659048762,
+    "last_action_ordinal": 0
   },
   "hr8294-117": {
     "bill_id": "hr8294",
@@ -1436,7 +1793,10 @@
       "republicans": 0.0,
       "independents": null
     },
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H38900",
+    "last_action_timestamp": 1658348465,
+    "last_action_ordinal": 16
   },
   "s387-117": {
     "bill_id": "s387",
@@ -1447,7 +1807,10 @@
     "last_action": "Committee on Energy and Natural Resources. Failed to report favorably.",
     "last_action_date": "2022-07-21",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1614063600,
+    "last_action_ordinal": 1
   },
   "hr8052-117": {
     "bill_id": "hr8052",
@@ -1458,7 +1821,10 @@
     "last_action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "last_action_date": "2022-06-14",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1655186400,
+    "last_action_ordinal": 3
   },
   "hr7691-117": {
     "bill_id": "hr7691",
@@ -1483,7 +1849,10 @@
       "democrats": 1.0,
       "republicans": 0.78,
       "independents": 1.0
-    }
+    },
+    "last_action_code": "E40000",
+    "last_action_timestamp": 1653112800,
+    "last_action_ordinal": 17
   },
   "s4242-117": {
     "bill_id": "s4242",
@@ -1494,7 +1863,10 @@
     "last_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
     "last_action_date": "2022-05-18",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1652853600,
+    "last_action_ordinal": 1
   },
   "hr7579-117": {
     "bill_id": "hr7579",
@@ -1505,7 +1877,10 @@
     "last_action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "last_action_date": "2022-04-26",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1650952800,
+    "last_action_ordinal": 3
   },
   "hr7490-117": {
     "bill_id": "hr7490",
@@ -1516,7 +1891,10 @@
     "last_action": "Referred to the House Committee on Foreign Affairs.",
     "last_action_date": "2022-04-11",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1649656800,
+    "last_action_ordinal": 3
   },
   "hr7403-117": {
     "bill_id": "hr7403",
@@ -1527,7 +1905,10 @@
     "last_action": "Referred to the Subcommittee on Energy.",
     "last_action_date": "2022-04-06",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1649224800,
+    "last_action_ordinal": 2
   },
   "s3571-117": {
     "bill_id": "s3571",
@@ -1538,7 +1919,10 @@
     "last_action": "Committee on Environment and Public Works Subcommittee on Fisheries, Wildlife, and Water. Hearings held.",
     "last_action_date": "2022-09-29",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1643871600,
+    "last_action_ordinal": 1
   },
   "sjres55-117": {
     "bill_id": "sjres55",
@@ -1556,7 +1940,10 @@
       "democrats": 0.021739130434782608,
       "republicans": 1.0,
       "independents": 0.0
-    }
+    },
+    "last_action_code": "H15000",
+    "last_action_timestamp": 1660072524,
+    "last_action_ordinal": 10
   },
   "s2736-117": {
     "bill_id": "s2736",
@@ -1567,7 +1954,10 @@
     "last_action": "Committee on Environment and Public Works. Hearings held.",
     "last_action_date": "2022-09-07",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1631599200,
+    "last_action_ordinal": 1
   },
   "hr3039-117": {
     "bill_id": "hr3039",
@@ -1578,7 +1968,10 @@
     "last_action": "Referred to the Subcommittee on Energy and Mineral Resources.",
     "last_action_date": "2022-07-05",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1657000800,
+    "last_action_ordinal": 2
   },
   "s2042-117": {
     "bill_id": "s2042",
@@ -1589,7 +1982,10 @@
     "last_action": "By Senator Cardin from Committee on Small Business and Entrepreneurship filed written report. Report No. 117-104. Minority views filed.",
     "last_action_date": "2022-05-03",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "14900",
+    "last_action_timestamp": 1651557600,
+    "last_action_ordinal": 9
   },
   "hr7155-117": {
     "bill_id": "hr7155",
@@ -1600,7 +1996,10 @@
     "last_action": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.",
     "last_action_date": "2022-04-04",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1649052000,
+    "last_action_ordinal": 2
   },
   "hr7207-117": {
     "bill_id": "hr7207",
@@ -1611,7 +2010,10 @@
     "last_action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
     "last_action_date": "2022-03-24",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11100",
+    "last_action_timestamp": 1648101600,
+    "last_action_ordinal": 3
   },
   "hr7142-117": {
     "bill_id": "hr7142",
@@ -1622,7 +2024,10 @@
     "last_action": "Referred to the Subcommittee on Environment and Climate Change.",
     "last_action_date": "2022-03-18",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1647583200,
+    "last_action_ordinal": 2
   },
   "s3822-117": {
     "bill_id": "s3822",
@@ -1633,7 +2038,10 @@
     "last_action": "Read twice and referred to the Committee on Energy and Natural Resources.",
     "last_action_date": "2022-03-10",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1646895600,
+    "last_action_ordinal": 1
   },
   "hr6884-117": {
     "bill_id": "hr6884",
@@ -1644,7 +2052,10 @@
     "last_action": "Referred to the Subcommittee on Energy and Mineral Resources.",
     "last_action_date": "2022-03-08",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "H11000",
+    "last_action_timestamp": 1646722800,
+    "last_action_ordinal": 2
   },
   "s3787-117": {
     "bill_id": "s3787",
@@ -1655,6 +2066,9 @@
     "last_action": "Read twice and referred to the Committee on Finance.",
     "last_action_date": "2022-03-08",
     "house_vote": {},
-    "senate_vote": {}
+    "senate_vote": {},
+    "last_action_code": "10000",
+    "last_action_timestamp": 1646722800,
+    "last_action_ordinal": 1
   }
 }
