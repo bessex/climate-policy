@@ -1,0 +1,73 @@
+name: Convert Notebooks to LaTeX and Release Artifacts
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    permissions:
+          contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          path: main
+
+      - name: Change working directory to parent directory
+        run: cd ..
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install nbformat
+        run: pip install nbformat
+
+      - name: Download convert_nb.py
+        run: wget https://gist.github.com/bessex/4ade8aee513d9baf8d5efb0a28a579d1/raw/ecd80ad4d593a14db578ffa1cd230b0e60a219f5/convert_nb.py
+
+      - name: Convert Notebooks
+        run: |
+          mkdir tex
+          cd tex
+          python ../convert_nb.py ../main/notebooks/ ./
+
+      - name: Rename Notebooks to repo_name_file_name.tex
+        run: |
+          # Get just the name of the repository (excluding the owner)
+          repo_name="${{ github.event.repository.name }}"
+          for f in tex/*.tex; do
+            # Generate the new file name
+            new_file_name="${repo_name}_$(basename "$f")"
+            # Rename the file
+            mv "$f" "tex/$new_file_name"
+          done
+
+      - name: Zip LaTeX Files
+        run: |
+          # Get just the name of the repository (excluding the owner)
+          repo_name="${{ github.event.repository.name }}"
+          # Extract the branch name from the github.ref variable
+          branch_name="${{ github.ref_name }}"
+          # Get version number
+          version="v${{ github.run_number }}"
+          # Generate the ZIP file name
+          zip_file_name="${repo_name}_${branch_name}_tex_${version}.zip"
+          # Create the ZIP file
+          cd tex/
+          zip -r "$zip_file_name" .
+          mv "$zip_file_name" ..
+          # Set the ZIP file name as an output variable for this step
+          echo "artifact_file=${zip_file_name}" >> $GITHUB_ENV
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ${{ env.artifact_file }}
+          tag_name: v${{ github.run_number }}
+          draft: false
